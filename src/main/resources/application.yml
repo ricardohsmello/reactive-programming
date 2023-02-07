@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mongo:mongo@172.18.0.2:27017/fund_db?authSource=admin&authMechanism=SCRAM-SHA-1
