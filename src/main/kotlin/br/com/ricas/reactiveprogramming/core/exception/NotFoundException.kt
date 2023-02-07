@@ -1,4 +1,4 @@
-package br.com.ricas.reactiveprogramming.config.exception
+package br.com.ricas.reactiveprogramming.core.exception
 
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ResponseStatus

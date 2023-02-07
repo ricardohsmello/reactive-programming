@@ -1,6 +1,6 @@
 package br.com.ricas.reactiveprogramming.adapters.web
 
-import br.com.ricas.reactiveprogramming.config.exception.NotFoundException
+import br.com.ricas.reactiveprogramming.core.exception.NotFoundException
 import br.com.ricas.reactiveprogramming.core.domain.Fund
 import br.com.ricas.reactiveprogramming.core.port.FundPort
 import org.springframework.beans.factory.annotation.Autowired
